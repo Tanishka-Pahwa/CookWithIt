@@ -38,10 +38,10 @@ CookWithIt is a Django-based platform for food enthusiasts to create, share, and
 * Implement authentication and authorization to protect user data and actions.
 
 #### Usage-
-*To access the admin panel, navigate to /admin and log in with your superuser account.
-*Users can register, create profiles, and start sharing their recipes.
-*Users can interact with other users, follow them, like recipes, and leave comments.
-*Admins can review and approve recipes via the admin panel.
++ To access the admin panel, navigate to /admin and log in with your superuser account.
++ Users can register, create profiles, and start sharing their recipes.
++ Users can interact with other users, follow them, like recipes, and leave comments.
++ Admins can review and approve recipes via the admin panel.
 
-Tanishka-Pahwa
-anjali-saini1
+##### Tanishka-Pahwa
+##### anjali-saini1
