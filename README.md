@@ -43,5 +43,7 @@ CookWithIt is a Django-based platform for food enthusiasts to create, share, and
 + Users can interact with other users, follow them, like recipes, and leave comments.
 + Admins can review and approve recipes via the admin panel.
 
+<br>
+
 ##### Tanishka-Pahwa
 ##### anjali-saini1
